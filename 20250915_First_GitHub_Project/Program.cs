@@ -11,3 +11,5 @@ Console.WriteLine("Next ^2");
 
 Console.WriteLine("NEXT A");
 Console.WriteLine("NEXT b");
+
+Console.WriteLine("Test");
