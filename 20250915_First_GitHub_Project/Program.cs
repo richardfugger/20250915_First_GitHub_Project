@@ -8,3 +8,5 @@ Console.WriteLine("Make_Something_New #2");
 
 Console.WriteLine("Next 1");
 Console.WriteLine("Next ^2");
+
+Console.WriteLine("NEXT A");
